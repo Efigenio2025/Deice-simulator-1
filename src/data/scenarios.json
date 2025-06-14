@@ -1,0 +1,13 @@
+
+[
+  {
+    "id": 1,
+    "prompt": "Ramp, we are ready for deicing.",
+    "expected": "Captain, please prepare the aircraft for deicing."
+  },
+  {
+    "id": 2,
+    "prompt": "Deicing complete. Please provide post-deicing communication.",
+    "expected": "Captain, American Eagle 4321, you have been anti-iced with Type IV, Cryotech Polar Guard X-Tend at 100%, starting at 13:48. Post deicing/anti-icing check complete, deicing personnel and equipment are safely away."
+  }
+]
